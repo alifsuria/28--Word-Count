@@ -1,0 +1,12 @@
+body {
+  background-color: lightcoral;
+  height: 100vh;
+}
+
+#display {
+  font-size: 1.4rem;
+  padding: 10px 15px;
+  margin-top: 50px;
+  background: lightblue;
+  font-weight: 700;
+}
